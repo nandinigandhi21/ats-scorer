@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environments and Secrets
+.env
+.env.local
+.env.*.local
+.venv/
+venv/
+env/
+ENV/
+ai-resume/
+
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+logs/
+*.sqlite
+*.db
+
+# ML/Data files and models
+*.csv
+*.pkl
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Node/Frontend dependencies (just in case)
+node_modules/
+dist/
+build/
