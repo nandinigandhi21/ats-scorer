@@ -1,0 +1,358 @@
+2026-06-20 21:07:38,359 - INFO - Starting ATS Resume Analyzer API...
+2026-06-20 21:07:38,359 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-20 21:08:04,369 - INFO - Loaded en_core_web_md
+2026-06-20 21:08:04,373 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-20 21:10:48,849 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-20 21:10:48,852 - INFO - All models loaded. API is ready to serve requests.
+2026-06-20 21:12:15,983 - INFO - Starting ATS Resume Analyzer API...
+2026-06-20 21:12:15,984 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-20 21:12:33,427 - INFO - Loaded en_core_web_md
+2026-06-20 21:12:33,427 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-20 21:13:33,638 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-20 21:13:33,639 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 00:51:24,186 - INFO - shutting down the api!!
+2026-06-21 00:51:47,100 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 00:51:47,100 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 00:52:05,934 - INFO - Loaded en_core_web_md
+2026-06-21 00:52:05,934 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 00:53:22,364 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 00:53:22,365 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 00:54:05,152 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 00:54:05,152 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 00:54:17,667 - INFO - Loaded en_core_web_md
+2026-06-21 00:54:17,667 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 00:55:02,133 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 00:55:02,134 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 00:55:35,010 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 00:55:35,011 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 00:55:48,866 - INFO - Loaded en_core_web_md
+2026-06-21 00:55:48,867 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 00:56:27,154 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 00:56:27,154 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 00:56:27,271 - INFO - shutting down the api!!
+2026-06-21 00:56:34,986 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 00:56:34,986 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 00:56:43,401 - INFO - Loaded en_core_web_md
+2026-06-21 00:56:43,401 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 00:57:11,345 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 00:57:11,345 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 00:57:27,351 - INFO - shutting down the api!!
+2026-06-21 00:57:37,397 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 00:57:37,397 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 00:57:47,827 - INFO - Loaded en_core_web_md
+2026-06-21 00:57:47,827 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 00:58:20,090 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 00:58:20,091 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 00:58:20,197 - INFO - shutting down the api!!
+2026-06-21 00:58:29,924 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 00:58:29,925 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 00:58:37,145 - INFO - Loaded en_core_web_md
+2026-06-21 00:58:37,145 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:18:31,873 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:18:31,874 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:18:47,701 - INFO - Loaded en_core_web_md
+2026-06-21 01:18:47,702 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:19:34,462 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 01:19:34,463 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 01:23:57,451 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:23:57,452 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:24:07,924 - INFO - Loaded en_core_web_md
+2026-06-21 01:24:07,924 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:24:46,140 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 01:24:46,141 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 01:30:55,510 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:30:55,510 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:31:07,272 - INFO - Loaded en_core_web_md
+2026-06-21 01:31:07,272 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:33:23,865 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:33:23,866 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:33:33,056 - INFO - Loaded en_core_web_md
+2026-06-21 01:33:33,056 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:34:02,871 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 01:34:02,874 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 01:40:31,609 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:40:31,610 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:41:11,980 - INFO - Loaded en_core_web_md
+2026-06-21 01:41:11,980 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:42:07,135 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:42:07,135 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:42:19,462 - INFO - Loaded en_core_web_md
+2026-06-21 01:42:19,469 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:43:11,799 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:43:11,800 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:43:19,340 - INFO - Loaded en_core_web_md
+2026-06-21 01:43:19,341 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:43:44,777 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 01:43:44,777 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 01:51:30,439 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 01:51:30,440 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 01:51:41,224 - INFO - Loaded en_core_web_md
+2026-06-21 01:51:41,225 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 01:52:25,013 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 01:52:25,013 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 17:49:02,050 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 17:49:02,051 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 17:49:19,150 - INFO - Loaded en_core_web_md
+2026-06-21 17:49:19,151 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 17:56:06,627 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 17:56:06,628 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 17:56:38,970 - INFO - Loaded en_core_web_md
+2026-06-21 17:56:38,977 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 17:58:21,761 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 17:58:21,762 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:12:31,051 - INFO - parse_Resume_file: parsing file :dummy_resume.docx
+2026-06-21 18:12:31,134 - INFO - resume_parser: Extracted 673 chars from DOCX
+2026-06-21 18:12:31,135 - INFO - parse_resume_file: Extracted 673 chars from dummy_resume.docx
+2026-06-21 18:12:31,136 - INFO - Parsed 'dummy_resume.docx': 673 chars extracted
+2026-06-21 18:12:44,947 - INFO - Groq parsed summary: 'A professional software engineer with 5 years of experience in Python development, building APIs wit'
+2026-06-21 18:12:44,948 - INFO - Groq parsed skills count: 7
+2026-06-21 18:12:44,949 - INFO - Groq parsed experience count: 1
+2026-06-21 18:12:51,047 - INFO - Saved analysis for user 87cfbbcc-12cf-4654-ad9f-5d270ff5be04: 66cecc99-7c9a-464c-8ca4-8da565ce2177
+2026-06-21 18:15:04,016 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 18:15:18,963 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 18:15:18,964 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 18:15:21,797 - INFO - Groq parsed skills count: 31
+2026-06-21 18:15:21,850 - INFO - Groq parsed experience count: 2
+2026-06-21 18:16:34,716 - INFO - parse_Resume_file: parsing file :dummy_resume.docx
+2026-06-21 18:16:34,717 - ERROR - Error in extract_text_from_docx: File is not a zip file
+2026-06-21 18:16:34,722 - ERROR - File parsing failed: Failed to extract text from DOCX. The document may be corrupted or in an unsupported format. Please try re-saving or converting to PDF.
+2026-06-21 18:17:12,183 - ERROR - Failed to save analysis to Supabase: 
+2026-06-21 18:28:54,876 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:28:54,876 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:29:05,250 - INFO - Loaded en_core_web_md
+2026-06-21 18:29:05,250 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:29:36,933 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:29:36,933 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:30:22,931 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 18:30:24,641 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 18:30:24,641 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 18:30:29,254 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 18:30:29,255 - INFO - Groq parsed skills count: 31
+2026-06-21 18:30:29,255 - INFO - Groq parsed experience count: 2
+2026-06-21 18:30:46,420 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: 3c13866b-d43c-4497-ac41-75c52d69ccd0
+2026-06-21 18:31:53,404 - ERROR - Failed to generate PDF: WeasyPrint is not installed. PDF generation unavailable.
+2026-06-21 18:33:26,145 - INFO - shutting down the api!!
+2026-06-21 18:33:40,315 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:33:40,316 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:33:53,956 - INFO - Loaded en_core_web_md
+2026-06-21 18:33:53,956 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:34:21,107 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:34:21,108 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:34:42,705 - INFO - Loaded en_core_web_md
+2026-06-21 18:34:42,708 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:34:51,087 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:34:51,087 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:34:51,197 - INFO - shutting down the api!!
+2026-06-21 18:35:06,779 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:35:06,780 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:35:20,040 - INFO - Loaded en_core_web_md
+2026-06-21 18:35:20,041 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:35:35,628 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:35:35,629 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:35:35,631 - INFO - shutting down the api!!
+2026-06-21 18:36:01,855 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:36:01,856 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:42:33,690 - INFO - shutting down the api!!
+2026-06-21 18:42:47,213 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:42:47,213 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:43:04,452 - INFO - Loaded en_core_web_md
+2026-06-21 18:43:04,453 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:43:55,431 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:43:55,431 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:43:59,754 - INFO - parse_Resume_file: parsing file :dummy_resume.docx
+2026-06-21 18:43:59,812 - INFO - resume_parser: Extracted 673 chars from DOCX
+2026-06-21 18:43:59,813 - INFO - parse_resume_file: Extracted 673 chars from dummy_resume.docx
+2026-06-21 18:43:59,813 - INFO - Parsed 'dummy_resume.docx': 673 chars extracted
+2026-06-21 18:44:03,244 - INFO - Groq parsed summary: 'A professional software engineer with 5 years of experience in Python development, building APIs wit'
+2026-06-21 18:44:03,245 - INFO - Groq parsed skills count: 7
+2026-06-21 18:44:03,245 - INFO - Groq parsed experience count: 1
+2026-06-21 18:44:06,658 - INFO - Saved analysis for user 2ef14e74-18af-4b43-81e4-82fe825643eb: 5123ca37-c84a-447b-a3a1-d97d937eac74
+2026-06-21 18:44:15,778 - INFO - shutting down the api!!
+2026-06-21 18:44:29,284 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:44:29,284 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:44:40,604 - INFO - Loaded en_core_web_md
+2026-06-21 18:44:40,605 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:45:27,598 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:45:27,599 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:47:50,625 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 18:47:53,070 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 18:47:53,071 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 18:47:58,192 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 18:47:58,193 - INFO - Groq parsed skills count: 31
+2026-06-21 18:47:58,193 - INFO - Groq parsed experience count: 2
+2026-06-21 18:48:15,825 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: 919db67e-090f-49da-8398-a4dfb22729b3
+2026-06-21 18:52:52,520 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 18:52:54,840 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 18:52:54,841 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 18:52:57,653 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 18:52:57,654 - INFO - Groq parsed skills count: 31
+2026-06-21 18:52:57,654 - INFO - Groq parsed experience count: 2
+2026-06-21 18:53:14,449 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: b0adfb49-6afd-4794-a4cd-f16b411aa6a5
+2026-06-21 18:54:13,074 - INFO - shutting down the api!!
+2026-06-21 18:54:24,681 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:54:24,681 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 18:54:37,199 - INFO - Loaded en_core_web_md
+2026-06-21 18:54:37,199 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 18:55:13,659 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 18:55:13,660 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 18:56:44,984 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 18:56:46,788 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 18:56:46,789 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 18:56:53,287 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 18:56:53,288 - INFO - Groq parsed skills count: 31
+2026-06-21 18:56:53,289 - INFO - Groq parsed experience count: 2
+2026-06-21 18:57:11,213 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: 9108928c-1f82-4dca-b0d2-2a176e46e530
+2026-06-21 18:59:41,119 - INFO - shutting down the api!!
+2026-06-21 18:59:54,184 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 18:59:54,185 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 19:00:06,815 - INFO - Loaded en_core_web_md
+2026-06-21 19:00:06,815 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 19:00:55,073 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 19:00:55,073 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 19:00:55,192 - INFO - shutting down the api!!
+2026-06-21 19:01:04,447 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 19:01:04,447 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 19:01:14,772 - INFO - Loaded en_core_web_md
+2026-06-21 19:01:14,773 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 19:01:55,812 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 19:01:55,813 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 19:02:17,434 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 19:02:19,134 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 19:02:19,135 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 19:02:24,558 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 19:02:24,559 - INFO - Groq parsed skills count: 31
+2026-06-21 19:02:24,559 - INFO - Groq parsed experience count: 2
+2026-06-21 19:02:41,381 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: 11ab247f-0c3f-440a-b6d1-51ac0f320645
+2026-06-21 19:09:42,331 - INFO - shutting down the api!!
+2026-06-21 19:09:53,752 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 19:09:53,752 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 19:10:05,519 - INFO - Loaded en_core_web_md
+2026-06-21 19:10:05,520 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 19:10:43,967 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 19:10:43,968 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 19:12:17,189 - INFO - shutting down the api!!
+2026-06-21 19:12:29,523 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 19:12:29,523 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 19:12:41,218 - INFO - Loaded en_core_web_md
+2026-06-21 19:12:41,218 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 19:13:23,767 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 19:13:23,767 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 19:15:22,725 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 19:15:24,380 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 19:15:24,380 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 19:15:29,146 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 19:15:29,147 - INFO - Groq parsed skills count: 31
+2026-06-21 19:15:29,148 - INFO - Groq parsed experience count: 2
+2026-06-21 19:15:47,330 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: 93f2fc3f-835c-440d-ae8f-ae590fa99d81
+2026-06-21 19:56:14,008 - INFO - shutting down the api!!
+2026-06-21 19:56:33,832 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 19:56:33,832 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 19:56:49,813 - INFO - Loaded en_core_web_md
+2026-06-21 19:56:49,813 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 19:58:41,428 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 19:58:41,428 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 19:58:41,553 - INFO - shutting down the api!!
+2026-06-21 19:59:16,652 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 19:59:16,652 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 19:59:31,786 - INFO - Loaded en_core_web_md
+2026-06-21 19:59:31,786 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 20:00:48,024 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 20:00:48,025 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 20:07:52,221 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 20:07:56,868 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 20:07:56,869 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 20:08:03,267 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 20:08:03,268 - INFO - Groq parsed skills count: 31
+2026-06-21 20:08:03,268 - INFO - Groq parsed experience count: 2
+2026-06-21 20:08:39,622 - INFO - Saved analysis for user 3daf15a3-9757-4600-bd7c-997e5d1e8410: b8bb3c39-23d0-4546-b3f4-c714f075d792
+2026-06-21 20:09:29,350 - INFO - parse_Resume_file: parsing file :dummy_resume.docx
+2026-06-21 20:09:29,350 - ERROR - Error in extract_text_from_docx: File is not a zip file
+2026-06-21 20:09:29,352 - ERROR - File parsing failed: Failed to extract text from DOCX. The document may be corrupted or in an unsupported format. Please try re-saving or converting to PDF.
+2026-06-21 20:29:07,465 - INFO - parse_Resume_file: parsing file :dummy_resume.docx
+2026-06-21 20:29:07,503 - ERROR - Error in extract_text_from_docx: File is not a zip file
+2026-06-21 20:29:07,516 - ERROR - File parsing failed: Failed to extract text from DOCX. The document may be corrupted or in an unsupported format. Please try re-saving or converting to PDF.
+2026-06-21 20:30:34,107 - INFO - parse_Resume_file: parsing file :resume.pdf
+2026-06-21 20:30:34,329 - INFO - parse_resume_file: Extracted 26 chars from resume.pdf
+2026-06-21 20:30:34,331 - INFO - Parsed 'resume.pdf': 26 chars extracted
+2026-06-21 20:30:34,921 - INFO - Groq parsed summary: ''
+2026-06-21 20:30:34,922 - INFO - Groq parsed skills count: 0
+2026-06-21 20:30:34,922 - INFO - Groq parsed experience count: 0
+2026-06-21 20:30:37,342 - INFO - Saved analysis for user 3e85bc1a-012e-4570-a2ab-280948c514fd: df2d8bd8-ad24-4359-a3e8-12a009f431c4
+2026-06-21 20:36:35,861 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 20:36:35,862 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 20:36:43,682 - INFO - Loaded en_core_web_md
+2026-06-21 20:36:43,683 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 20:37:26,191 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 20:37:26,192 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 20:49:18,799 - INFO - shutting down the api!!
+2026-06-21 22:55:22,122 - INFO - shutting down the api!!
+2026-06-21 22:59:04,696 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 22:59:04,696 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 22:59:15,323 - INFO - Loaded en_core_web_md
+2026-06-21 22:59:15,323 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 22:59:53,086 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 22:59:53,086 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 23:00:54,032 - INFO - shutting down the api!!
+2026-06-21 23:01:02,849 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 23:01:02,849 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 23:01:11,479 - INFO - Loaded en_core_web_md
+2026-06-21 23:01:11,479 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 23:01:39,605 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 23:01:39,605 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 23:01:56,165 - INFO - shutting down the api!!
+2026-06-21 23:02:08,022 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 23:02:08,022 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 23:02:15,850 - INFO - Loaded en_core_web_md
+2026-06-21 23:02:15,851 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 23:02:40,463 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 23:02:40,464 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 23:04:02,082 - INFO - shutting down the api!!
+2026-06-21 23:04:11,166 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 23:04:11,166 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 23:04:26,252 - INFO - Loaded en_core_web_md
+2026-06-21 23:04:26,252 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 23:05:39,331 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 23:05:39,331 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 23:08:02,520 - INFO - shutting down the api!!
+2026-06-21 23:08:14,383 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 23:08:14,384 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 23:08:28,049 - INFO - Loaded en_core_web_md
+2026-06-21 23:08:28,054 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 23:09:06,484 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 23:09:06,484 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 23:21:48,346 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 23:21:49,749 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 23:21:49,752 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 23:21:54,171 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 23:21:54,172 - INFO - Groq parsed skills count: 31
+2026-06-21 23:21:54,172 - INFO - Groq parsed experience count: 2
+2026-06-21 23:22:04,320 - INFO - Saved analysis for user 1398ea7e-2a22-4aee-9144-d072dcdf68cb: 3f8ea6cb-dd1a-4a88-abaa-36bb452c5c93
+2026-06-21 23:25:16,727 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 23:25:17,791 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 23:25:17,792 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 23:25:20,537 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 23:25:20,537 - INFO - Groq parsed skills count: 31
+2026-06-21 23:25:20,538 - INFO - Groq parsed experience count: 2
+2026-06-21 23:25:31,941 - INFO - Saved analysis for user 1398ea7e-2a22-4aee-9144-d072dcdf68cb: 39e3fcc4-2b85-4ad8-972a-c03fdd48a62e
+2026-06-21 23:28:01,180 - INFO - shutting down the api!!
+2026-06-21 23:28:16,042 - INFO - Starting ATS Resume Analyzer API...
+2026-06-21 23:28:16,043 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-21 23:28:27,596 - INFO - Loaded en_core_web_md
+2026-06-21 23:28:27,596 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-21 23:28:52,364 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-21 23:28:52,364 - INFO - All models loaded. API is ready to serve requests.
+2026-06-21 23:32:44,675 - INFO - parse_Resume_file: parsing file :ResumeNGFinal.pdf
+2026-06-21 23:32:45,578 - INFO - parse_resume_file: Extracted 4297 chars from ResumeNGFinal.pdf
+2026-06-21 23:32:45,579 - INFO - Parsed 'ResumeNGFinal.pdf': 4297 chars extracted
+2026-06-21 23:32:49,510 - INFO - Groq parsed summary: 'Computer Science B.Tech (AI/ML) candidate with 1.5 years of applied experience delivering end‑to‑end'
+2026-06-21 23:32:49,511 - INFO - Groq parsed skills count: 31
+2026-06-21 23:32:49,511 - INFO - Groq parsed experience count: 2
+2026-06-21 23:32:58,945 - INFO - Saved analysis for user 1398ea7e-2a22-4aee-9144-d072dcdf68cb: 6fb94e09-581b-4270-9519-322c4ccdc025
+2026-06-22 00:26:42,158 - INFO - shutting down the api!!
+2026-06-22 00:27:02,256 - INFO - Starting ATS Resume Analyzer API...
+2026-06-22 00:27:02,257 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-06-22 00:27:16,828 - INFO - Loaded en_core_web_md
+2026-06-22 00:27:16,829 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-06-22 00:27:43,635 - INFO - Loaded all-MiniLM-L6-v2
+2026-06-22 00:27:43,635 - INFO - All models loaded. API is ready to serve requests.
+2026-06-22 00:28:03,947 - INFO - shutting down the api!!
